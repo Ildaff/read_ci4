@@ -76,7 +76,7 @@
         <a href="<?= site_url('mahasiswa') ?>">Mahasiswa</a>
         <a href="<?= site_url('dosen') ?>">Dosen</a>
         <a href="<?= site_url('mata-kuliah') ?>">Mata Kuliah</a>
-        <a href="<?= site_url('tentang') ?>">Tentang</a>
+        <a href="<?= site_url('tentang') ?>">Tentang Saya</a>
     </nav>
 
     <main>
